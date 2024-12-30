@@ -1,0 +1,1 @@
+The software helps manage literature notes in Markdown files
